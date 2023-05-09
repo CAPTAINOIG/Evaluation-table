@@ -1,0 +1,50 @@
+#body{
+    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+}
+#marq{
+    font-size: 50px;
+    margin-top: 140px;
+    margin-left: 450px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+#myTable{
+    border: 0px solid white;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+tr,td{
+    border: 1px solid white;
+    color: white;
+}
+#input1{
+margin-top: 20px;
+margin-left: 350px;
+width: 300px;
+height: 30px;
+}
+#input2{
+width: 300px;
+height: 30px;
+margin-left: 50px;
+}
+#major{
+    margin-top: 20px;
+    margin-left: 350px;
+    width: 300px;
+    height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+    }
+ #check{
+    width: 300px;
+    height: 30px;
+    margin-left: 50px;
+    font-size: 20px;
+    font-weight: bold;
+ }
+    ::placeholder{
+        font-weight: bold;
+    }
