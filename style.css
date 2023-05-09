@@ -1,5 +1,6 @@
 #body{
-    background: linear-gradient(red, orange, yellow, green, blue, indigo, violet);
+    /* background: linear-gradient(red, orange, yellow, green, blue, indigo, violet); */
+    background-color: crimson;
 }
 #marq{
     font-size: 50px;
